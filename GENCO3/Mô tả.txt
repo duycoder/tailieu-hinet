@@ -16,3 +16,40 @@
 	+) danh sách các yêu cầu và mô tả cụ thể
 - Phân tích xử lý dữ liệu
 	+) danh sách các thực thể quan trọng và từng thuộc tính của các thực thể
+====================================
+
+- Liệt kê các câu hỏi
+- Trả lời câu hỏi
+- Chỉnh sửa CSDL đúng yêu cầu của câu hỏi
+- Tạo màn hình
+- Họp
+- Trong năm nay sẽ là một
+====================================
+-(?) Mô hình BDF
+-(?) Yêu cầu chức năng - Yêu cầu chức năng nghiệp vụ
+-(?) Yêu cầu phi chức năng
+-(?) Sơ đồ ngữ cảnh
+-(?) Sơ đồ phân cấp chức năng
+-(?) Sơ đồ luồng dữ liệu
+-(?) Sơ đồ ERD
+-(?) Mô hình quan hệ
+-(?) Mô hình kiến trúc hệ thống
+-(?)
+- Yêu cầu chức năng:
+	+) Là các chức năng tối thiểu mà hệ thống cần có nhằm đáp ứng các yêu cầu
+của các đối tượng tham gia vòa việc quản lý, vận hành, duy trì, thực hiện nghiệp vụ bên trong, 
+sử dụng dịch vụ cung cấp bra bneen ngoài bởi hệ thống,9cans bộ quản trị hệ thống, cán bộ chuyên trách
+về công nghệ thông tin, cán bộ nghiệp vụ và ngưởi sử dụng dịch vu)
+	+) Các yêu cầu phi chức năng: Là những àng buộc và điều kiện đối với các yêu cầu chức năng của
+	hệ thống. Các ràng buộc như ràng buộc về thời gian, ràng buộc về hiệu năng,
+	các tiêu chuẩn được sử dụng... Những yêu cầu này ảnh hưởng đến chất lượng, khả năngsử dụng của hệ thống và có tác động trực tiếp đén sự hài
+lòng của người sử dụng, do đó quyết định đến thành công của hệ thống.
+
+https://egypt-2010.com/may-tinh-cong-nghe/yeu-cau-phi-chuc-nang-la-gi
+https://www.quora.com/Why-do-people-take-pictures-of-their-food-and-then-share-them-on-social-networks
+https://www.quora.com/Why-do-you-think-so-many-people-take-pictures-of-their-food-for-Instagram
+https://www.quora.com/Why-do-I-love-photographing-food?redirected_qid=3651892
+https://www.elitedaily.com/p/32-summer-bbq-captions-for-instagram-that-are-100-dad-approved-17896854
+https://www.independent.co.uk/life-style/food-and-drink/why-to-stop-instagramming-food-breakfast-brunch-lunch-dinner-a7718416.html
+https://www.youtube.com/watch?v=OvhHRNwFNPg
+https://www.thecut.com/2016/03/the-psychological-case-for-instagramming-your-food.html
