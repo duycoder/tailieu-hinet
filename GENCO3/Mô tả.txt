@@ -34,7 +34,15 @@
 -(?) Sơ đồ ERD
 -(?) Mô hình quan hệ
 -(?) Mô hình kiến trúc hệ thống
--(?)
+- Gọi service:
+	+) EVN: không cho chọc vào, muốn sử dụng thì vào ngày thứ 7, chủ nhật, phải ghi log lại toàn bộ các lần sử dụng service
+	+) Viettel: sử dụng SMS
+- Sử dụng Crystal Report để làm báo cáo
+- Làm mịn hàm login
+- Sử dụng SearchEngine: Elastic Search
+- Giao diện đẹp trên mobile và desktop
+- Cần sửa hàm xử lý firebase
+
 - Yêu cầu chức năng:
 	+) Là các chức năng tối thiểu mà hệ thống cần có nhằm đáp ứng các yêu cầu
 của các đối tượng tham gia vòa việc quản lý, vận hành, duy trì, thực hiện nghiệp vụ bên trong, 
