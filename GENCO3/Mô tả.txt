@@ -1,0 +1,18 @@
+- Mục tiêu:
+	=> danh sách các chức năng
+- Sơ đồ tổ chức thiết kế
+	=> nêu ra một mô hình tổ chức
+- Phân tích hiện trạng hệ thống
+	=> nếu ra các phần chức năng
+		=> mô tả chi tiết hoạt động
+- Các biểu mẫu
+	=> hình ảnh các biểu mẫu
+- Sơ  đồ ngữ cảnh hệ thống
+	=> 
+- Xử lý văn bản đi
+- Xử lý văn bản đến
+- Xử lý văn bản đi nội bộ
+- Phân tích yêu cầu
+	+) danh sách các yêu cầu và mô tả cụ thể
+- Phân tích xử lý dữ liệu
+	+) danh sách các thực thể quan trọng và từng thuộc tính của các thực thể
